@@ -17,12 +17,12 @@ while j < 210:
     z = (c + "1")
 
     os.mkdir(cwd + d + c)
-#   os.mkdir(r"C:\Users\elior\Desktop\labio\ " + c)
+#   os.mkdir(r"C:\Users\......\Desktop\ " + c)
     i = 1
-    #d = (r"C:\Users\elior\Desktop\labio\ " + c)
+    #d = (r"C:\Users\....\Desktop\ " + c)
     while i < 210:
         d = (cwd + d + c)
-#        d = (r"C:\Users\elior\Desktop\labio\ " + c)
+#        d = (r"C:\Users\.....\Desktop\ " + c)
         cwd = os.getcwd()
         fx = a + fn
         #print (fn)
