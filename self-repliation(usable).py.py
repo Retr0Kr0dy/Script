@@ -7,26 +7,20 @@ j = 1
 cwd = os.getcwd()
 a = ("1")
 b = a
-
 fn = (b + (".py"))
-
 c = ("1")
-d = ("/")
-while j < 210:
+
+while j < 110:
 
     z = (c + "1")
-
-    os.mkdir(cwd + d + c)
-#   os.mkdir(r"C:\Users\......\Desktop\ " + c)
     i = 1
-    #d = (r"C:\Users\....\Desktop\ " + c)
-    while i < 210:
-        d = (cwd + d + c)
-#        d = (r"C:\Users\.....\Desktop\ " + c)
+    os.mkdir(r"C:\Users\...\Desktop\ " + c)
+
+    while i < 110:
+        d = (r"C:\Users\...\Desktop\ " + c)
         cwd = os.getcwd()
         fx = a + fn
-        #print (fn)
-        #print (fx)
+        
         src = os.path.join(cwd, fn)
         dst = os.path.join(d, fx)
 
@@ -34,9 +28,6 @@ while j < 210:
 
         copyfile(src,dst)
         
-
-        #if i == 227:
-        #    break
         a += ("1")
         i += 1
         print (d)
@@ -44,10 +35,7 @@ while j < 210:
     else:
         print (a)
     a = ("1")
-    #if j == 227:
-    #    break
     i = 1
     j += 1
     c += ("1")
-#c += ("1")
-print (c)
+
