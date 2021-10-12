@@ -1,3 +1,5 @@
+__author__ = 'David Bombal'
+
 from pynput.keyboard import Key, Listener
 import logging
 
