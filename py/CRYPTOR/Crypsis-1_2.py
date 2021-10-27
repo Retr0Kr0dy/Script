@@ -6,7 +6,7 @@ from hashlib import sha256
 i = 0
 file_to_crypt = input ("file to crypt :")
 output = input ("output file name :")
-word_key = ("~|[{`~~~~[SRHT|DRFH~F\J`FJ[FRJ{RT~|R[Y{RG`Y~SRT[FY|S\TY(SRFTY-SFT_H`DF|[HJ~DR{J\|DR{YJD~RHDR\Y[|RTY~{RST[YSRT|Y`RTY[SRTY|RS~TY\RTY{YT~")
+word_key = ("6F097675C6398E12BAEFC974263901680172324796B189A3568D610E7F84B9BE")
 keys = sha256(word_key.encode('utf-8')).digest()
 
 
