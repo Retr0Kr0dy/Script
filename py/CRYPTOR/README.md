@@ -75,7 +75,7 @@ can't use args with this script
 monitoring version
 ```
 
-**### CrptSIS 2.0**
+### **CrptSIS 2.0**
 
 BLOWFISH encryption
 
