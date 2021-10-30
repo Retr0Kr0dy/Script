@@ -49,8 +49,7 @@ monitoring version
 </p>
 </details>
   
-<details><summary>CryptSIS 2.0</summary>
-<p>
+
 
 ### CrptSIS 2.0
 BLOWFISH encryption
@@ -85,6 +84,3 @@ random key created with saving it in file
 Fully usable, exept no error code
 can't use args with this script
 ```
-    
-</p>
-</details>
