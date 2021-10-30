@@ -7,6 +7,8 @@
 <details><summary>CryptSIS 1.x</summary>
 <p>
 
+[CrpyptSIS_1.1](https://github.com/Retr0Kr0dy/ScriptVirusMess/tree/main/py/CRYPTOR#--cryptsis_11-)
+ 
 [CrpyptSIS_1.2](https://github.com/Retr0Kr0dy/ScriptVirusMess/tree/main/py/CRYPTOR#--cryptsis_12-)
 
 [CrpyptSIS_1.3](https://github.com/Retr0Kr0dy/ScriptVirusMess/tree/main/py/CRYPTOR#--cryptsis_13-)
@@ -20,6 +22,8 @@
 <p>
  
 [CrpyptSIS_2.1](https://github.com/Retr0Kr0dy/ScriptVirusMess/tree/main/py/CRYPTOR#--cryptsis_21-)
+ 
+[CrpyptSIS_2.2](https://github.com/Retr0Kr0dy/ScriptVirusMess/tree/main/py/CRYPTOR#--cryptsis_22-)
 
 [CrpyptSIS_2.3](https://github.com/Retr0Kr0dy/ScriptVirusMess/tree/main/py/CRYPTOR#--cryptsis_23-)
 
