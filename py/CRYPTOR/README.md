@@ -1,5 +1,7 @@
 # CRYPTO
+
 ## Summary
+
 [CrpyptSIS_2.3 (last-releases)](https://github.com/Retr0Kr0dy/ScriptVirusMess/tree/main/py/CRYPTOR#--cryptsis_23-)
 
 <details><summary>CryptSIS 1.x</summary>
@@ -25,6 +27,8 @@
 </p>
  
 ## CryptSIS
+
+### CrptSIS 1.0
 
 SHA-256/UTF-8 encryption
 
@@ -66,6 +70,7 @@ monitoring version
 ```
 
 ### CrptSIS 2.0
+
 BLOWFISH encryption
 
 - #### - CryptSIS_2.1 :
