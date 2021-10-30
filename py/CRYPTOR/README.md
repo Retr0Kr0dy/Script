@@ -27,12 +27,14 @@
 
 [CrpyptSIS_2.3](https://github.com/Retr0Kr0dy/ScriptVirusMess/tree/main/py/CRYPTOR#--cryptsis_23-)
 
+[CrpyptSIS_2.4](https://github.com/Retr0Kr0dy/ScriptVirusMess/tree/main/py/CRYPTOR#--cryptsis_24-)
+ 
 </details>
 </p>
  
-## CryptSIS
+## **CryptSIS**
 
-### CrptSIS 1.0
+### **CrptSIS 1.0**
 
 SHA-256/UTF-8 encryption
 
@@ -73,7 +75,7 @@ can't use args with this script
 monitoring version
 ```
 
-### CrptSIS 2.0
+**### CrptSIS 2.0**
 
 BLOWFISH encryption
 
@@ -105,5 +107,17 @@ can't use args with this script
 Two-way encryption, decryption implemented, 
 random key created with saving it in file
 Fully usable, exept no error code
+can't use args with this script
+```
+
+- #### - CryptSIS_2.4 :
+
+ >full-releases
+ {fully-functional}
+
+```
+Two-way encryption, decryption implemented, 
+random key created with saving it in file
+Fully usable with error code
 can't use args with this script
 ```
