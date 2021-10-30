@@ -2,10 +2,29 @@
 ## Summary
 [CrpyptSIS_2.3 (last-releases)](https://github.com/Retr0Kr0dy/ScriptVirusMess/tree/main/py/CRYPTOR#--cryptsis_23-)
 
-## CryptSIS
-
-<details><summary>CryptSIS 1.0</summary>
+<details><summary>CryptSIS 1.x</summary>
 <p>
+
+[CrpyptSIS_1.2](https://github.com/Retr0Kr0dy/ScriptVirusMess/tree/main/py/CRYPTOR#--cryptsis_12-)
+
+[CrpyptSIS_1.3](https://github.com/Retr0Kr0dy/ScriptVirusMess/tree/main/py/CRYPTOR#--cryptsis_13-)
+
+[CrpyptSIS_1.4](https://github.com/Retr0Kr0dy/ScriptVirusMess/tree/main/py/CRYPTOR#--cryptsis_14-)
+
+</details>
+</p>
+ 
+<details><summary>CryptSIS 2.x</summary>
+<p>
+ 
+[CrpyptSIS_2.1](https://github.com/Retr0Kr0dy/ScriptVirusMess/tree/main/py/CRYPTOR#--cryptsis_21-)
+
+[CrpyptSIS_2.3](https://github.com/Retr0Kr0dy/ScriptVirusMess/tree/main/py/CRYPTOR#--cryptsis_23-)
+
+</details>
+</p>
+ 
+## CryptSIS
 
 SHA-256/UTF-8 encryption
 
@@ -45,11 +64,6 @@ can't use args with this script
 ```
 monitoring version
 ```
-  
-</p>
-</details>
-  
-
 
 ### CrptSIS 2.0
 BLOWFISH encryption
