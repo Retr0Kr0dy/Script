@@ -5,7 +5,7 @@ import subprocess
 try:
     SPI_SETDESKWALLPAPER = 20 
     img_path = "C:\\Users\\retro\\Desktop\\Clyon\\image.jpg"
-    ctypes.windll.user32.SystemParametersInfoW(SPI_SETDESKWALLPAPER, 0,"image.jpg", 0)
+    ctypes.windll.user32.SystemParametersInfoW(SPI_SETDESKWALLPAPER, 0, img_path, 0)
 except:
     print("man that's fxked up")
 
