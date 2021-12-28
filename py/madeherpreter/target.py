@@ -27,5 +27,6 @@ def reciv():
         except:
             client.close()
             print ("An error occured!!!")
+            quit()
 
 reciv()
