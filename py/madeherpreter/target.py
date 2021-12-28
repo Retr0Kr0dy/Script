@@ -42,3 +42,5 @@ def main():
         thread.start()
 
 print(f"Server running on {host}, {port}")
+
+main()
