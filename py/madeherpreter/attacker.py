@@ -16,7 +16,12 @@ def reciv():
 
 def main():
     while True:
-        a = bytearray(input("command : ").encode('utf-8'))
+        a = bytearray(input(f"HACKER@{host}#").encode('utf-8'))
+        if len(a) == 0:
+            main()
+        if a.decode() == "QUIT":
+            client.close()
+            quit()
         client.send(a)
         reciv()
 
