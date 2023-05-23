@@ -1,3 +1,5 @@
+# <b><u>THIS REPO IS DEPRECATED.</b></u>
+
 # Script
 Virus Scripts
 -
